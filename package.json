@@ -1,0 +1,24 @@
+{
+  "name": "wish-brand-api",
+  "version": "1.0.0",
+  "description": "Mock data for Wish-Api-Core",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itabara@live.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.2",
+    "express-validator": "^2.20.8",
+    "cors": "^2.7.1",
+    "convict": "^1.4.0",
+    "winston": "^2.2.0",
+    "errorhandler": "^1.4.3",
+    "compression": "^1.6.2",
+    "helmet": "^2.1.2",
+    "validator": "^5.5.0",
+    "lodash": "^4.15.0"
+  }
+}
